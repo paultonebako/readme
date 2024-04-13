@@ -5,9 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- AI/ML software engineer intern w/ experience in Data Analytics</br>
-- studying CS & ME in los angeles, ca<br/>
-- interested in AI/ML, robotics, data analysis, and backend dev </br>
+-
+- experienced data analyst with experience in AI/ML and computer vision</br>
+- completing CS bachelor's in los angeles, ca<br/>
+- interested in all things AI/ML and data analysis related</br>
 - how to reach me: paultonebako25@gmail.com </br>
 
 
