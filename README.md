@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
--
 - experienced data analyst with experience in AI/ML and computer vision</br>
 - completing CS bachelor's in los angeles, ca<br/>
 - interested in all things AI/ML and data analysis related</br>
