@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- data analyst with experience in ML and computer vision</br>
+- data analyst with experience in ML and data science</br>
 - finishing CS bachelor's in los angeles, ca<br/>
 - interested in all things AI/ML and data analysis related</br>
 - how to reach me: paultonebako25@gmail.com </br>
