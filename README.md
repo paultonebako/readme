@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- data and IT analyst with experience in ML and data science</br>
+- robotics student with experience in robotics, computer vision, and data analytics</br>
 - finishing CS bachelor's in los angeles, ca<br/>
-- interested in all things AI/ML, IT, and data analysis related</br>
+- interested in all things robotics, AI/ML, and biometrics</br>
 - how to reach me: paultonebako25@gmail.com </br>
 
 
